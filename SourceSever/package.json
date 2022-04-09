@@ -15,7 +15,7 @@
     "export-to-csv": "^0.2.1",
     "log-to-file": "^2.0.2",
     "mkdirp": "^1.0.4",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.19",
     "mqtt": "^4.1.0",
     "mssql": "^6.2.0",
